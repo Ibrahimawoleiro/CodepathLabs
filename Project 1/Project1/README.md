@@ -36,16 +36,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/UlJfqkb' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./src/Pictures/codePathGifWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
-https://imgur.com
+GIF created with https://imgur.com
 
 ## Notes
 
